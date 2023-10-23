@@ -1,8 +1,8 @@
 # Sobre Mim
-- 👱‍♂️ Olá, meu nome é Willian Brand Engels
+- 👱‍♂️ Olá, meu nome é Willian Brand Engels!
 - 🧢 Meu e-mail é willian.engels@escola.pr.gov.br
-- ✔️ Estou interessado em aprender a programar novas linguagens
-- 🥇Estou aprendendo a programar recentemente a linguagem de JavasScrit e Scratch
+- ✔️ Estou interessado em aprender a programar novas linguagens.
+- 🥇Estou aprendendo a programar recentemente a linguagem de JavasScrit e Scratch.
 
 
 <!---
